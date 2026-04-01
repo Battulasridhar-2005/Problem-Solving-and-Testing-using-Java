@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1314-matrix-block-sum) |
+| [1408-string-matching-in-an-array](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1408-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,8 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0008-string-to-integer-atoi) |
 | [0890-find-and-replace-pattern](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0890-find-and-replace-pattern) |
+| [1408-string-matching-in-an-array](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1408-string-matching-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
