@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0890-find-and-replace-pattern) |
+| [1396-design-underground-system](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1396-design-underground-system) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0890-find-and-replace-pattern) |
+| [1396-design-underground-system](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1408-string-matching-in-an-array) |
 ## Sliding Window
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1396-design-underground-system](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
