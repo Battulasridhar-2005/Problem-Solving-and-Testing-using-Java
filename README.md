@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1408-string-matching-in-an-array) |
+| [1472-design-browser-history](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,9 +93,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-design-underground-system](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1603-design-parking-system) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1472-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
