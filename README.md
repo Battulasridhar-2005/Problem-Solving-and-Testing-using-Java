@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0225-implement-stack-using-queues) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1472-design-browser-history) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/0225-implement-stack-using-queues) |
 | [1472-design-browser-history](https://github.com/Battulasridhar-2005/Problem-Solving-and-Testing-using-Java/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
